@@ -7,6 +7,6 @@
  service.js
 
 # How to Run Project 
-to open index.html page
+to open index.html page.
  -
 
